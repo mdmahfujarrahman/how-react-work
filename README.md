@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## i will read Doc on [react.org](https://reactjs.org/docs/thinking-in-react.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
